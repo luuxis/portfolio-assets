@@ -1,42 +1,45 @@
-[
-    {
-        "title": "Selvania Launcher",
-        "image": "/launcher.png",
-        "description": "Launcher Minecraft moddé avec support des versions personnalisées (Forge, Fabric...).",
-        "tags": [
-            "Electron",
-            "Node.js",
-            "Minecraft"
-        ],
-        "rncp": [
-            "test"
-        ],
-        "projectLink": "https://github.com/luuxis/Selvania-Launcher"
-    },
-    {
-        "title": "LuuxCraft",
-        "description": "Plateforme web pour générer des launchers personnalisés pour serveurs Minecraft.",
-        "tags": [
-            "React",
-            "API",
-            "Web Panel"
-        ],
-         "rncp": [
-            "test"
-        ],
-        "projectLink": "https://luuxcraft.fr"
-    },
-    {
-        "title": "minecraft-java-core",
-        "description": "Librairie Node.js pour gérer Java et les versions Minecraft dans un launcher.",
-        "tags": [
-            "Node.js",
-            "Librairie",
-            "Java"
-        ],
-         "rncp": [
-            "test"
-        ],
-        "projectLink": "https://github.com/luuxis/minecraft-java-core"
-    }
-]
+{
+    "cv": "https://luuxis.fr/cv.pdf",
+    "projects": [
+        {
+            "title": "Selvania Launcher",
+            "image": "/launcher.png",
+            "description": "Launcher Minecraft moddé avec support des versions personnalisées (Forge, Fabric...).",
+            "tags": [
+                "Electron",
+                "Node.js",
+                "Minecraft"
+            ],
+            "rncp": [
+                "test"
+            ],
+            "projectLink": "https://github.com/luuxis/Selvania-Launcher"
+        },
+        {
+            "title": "LuuxCraft",
+            "description": "Plateforme web pour générer des launchers personnalisés pour serveurs Minecraft.",
+            "tags": [
+                "React",
+                "API",
+                "Web Panel"
+            ],
+            "rncp": [
+                "test"
+            ],
+            "projectLink": "https://luuxcraft.fr"
+        },
+        {
+            "title": "minecraft-java-core",
+            "description": "Librairie Node.js pour gérer Java et les versions Minecraft dans un launcher.",
+            "tags": [
+                "Node.js",
+                "Librairie",
+                "Java"
+            ],
+            "rncp": [
+                "test"
+            ],
+            "projectLink": "https://github.com/luuxis/minecraft-java-core"
+        }
+    ]
+}
