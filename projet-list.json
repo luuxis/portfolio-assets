@@ -8,6 +8,9 @@
             "Node.js",
             "Minecraft"
         ],
+        "rncp": [
+            "test"
+        ],
         "projectLink": "https://github.com/luuxis/Selvania-Launcher"
     },
     {
@@ -18,6 +21,9 @@
             "API",
             "Web Panel"
         ],
+         "rncp": [
+            "test"
+        ],
         "projectLink": "https://luuxcraft.fr"
     },
     {
@@ -27,6 +33,9 @@
             "Node.js",
             "Librairie",
             "Java"
+        ],
+         "rncp": [
+            "test"
         ],
         "projectLink": "https://github.com/luuxis/minecraft-java-core"
     }
