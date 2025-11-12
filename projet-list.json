@@ -11,8 +11,16 @@
                 "Minecraft"
             ],
             "rncp": [
-                "Rédiger un cahier des charges à partir des besoins d’administration (gestion de clients, offres, services, facturation éventuelle) pour cadrer le panel",
-                "Rédiger des spécifications techniques à partir de ce CDC (modèles, rôles admin, droits)."
+                "Rédiger un cahier des charges à partir du besoin de lancement de jeu (authentification, téléchargement, choix de version).",
+                "Rédiger des spécifications techniques décrivant l’architecture du launcher (module de download, vérification d’intégrité, lancement JVM, interface).",
+                "Déployer un environnement de travail avec gestion de versions pour une application cliente.",
+                "Développer un prototype de launcher pour valider la chaîne « connexion → téléchargement → lancement ».",
+                "Rédiger le code en respectant les normes d’ergonomie pour informer l’utilisateur de l’état du téléchargement.",
+                "Implémenter l’interface utilisateur du launcher à partir d’une maquette (écran de login, sélection de versions, logs).",
+                "Implémenter la logique métier de téléchargement automatique des ressources Minecraft et de configuration du jeu.",
+                "Implémenter des règles d’authentification sécurisées (Microsoft/Mojang ou compte custom).",
+                "Mettre en place un plan de tests (connexion, téléchargement, lancement).",
+                "Rédiger une documentation utilisateur pour faciliter l’installation et l’usage du launcher."
             ],
             "projectLink": "https://github.com/luuxis/Selvania-Launcher"
         },
@@ -21,13 +29,20 @@
             "image": "https://raw.githubusercontent.com/luuxis/portfolio-assets/refs/heads/master/luuxcraft.png",
             "description": "Plateforme web pour générer des launchers personnalisés pour serveurs Minecraft.",
             "tags": [
-                "React",
                 "API",
                 "Web Panel"
             ],
             "rncp": [
-                "Rédiger un cahier des charges à partir des besoins d’administration (gestion de clients, offres, services, facturation éventuelle) pour cadrer le panel",
-                "Rédiger des spécifications techniques à partir de ce CDC (modèles, rôles admin, droits)."
+                "Rédiger un cahier des charges à partir des besoins d’administration d’un service en ligne (gestion d’utilisateurs, projets, launchers).",
+                "Rédiger des spécifications techniques à partir du cahier des charges (rôles, droits, endpoints d’API).",
+                "Identifier les fonctionnalités à développer et modéliser la base de données (utilisateurs, configurations de launchers, ressources).",
+                "Réaliser une maquette d’un panel d’administration ergonomique.",
+                "Développer le front-end du panel selon la maquette (listes, formulaires, vues détaillées).",
+                "Implémenter le back-end et la persistance pour la gestion des ressources et des configurations.",
+                "Implémenter des règles d’authentification et d’autorisation pour sécuriser le panel.",
+                "Déployer l’application web sur un serveur pour la rendre accessible aux administrateurs / clients.",
+                "Rédiger la documentation technique et utilisateur du panel.",
+                "Analyser les retours d’usage et proposer des améliorations d’ergonomie et de performance."
             ],
             "projectLink": "https://luuxcraft.fr"
         },
@@ -41,8 +56,16 @@
                 "Java"
             ],
             "rncp": [
-                "Rédiger un cahier des charges à partir des besoins d’administration (gestion de clients, offres, services, facturation éventuelle) pour cadrer le panel",
-                "Rédiger des spécifications techniques à partir de ce CDC (modèles, rôles admin, droits)."
+                "Rédiger un cahier des charges décrivant le besoin de téléchargement automatique des dépendances (Java, assets Minecraft, librairies).",
+                "Rédiger des spécifications techniques sur les endpoints, formats et règles de versionnement consommés par les launchers.",
+                "Modéliser la structure de données pour référencer les ressources et leurs versions.",
+                "Développer un prototype de librairie pour valider le téléchargement et la résolution de dépendances.",
+                "Rédiger le code en respectant les standards de développement Node.js (modularité, réutilisabilité).",
+                "Implémenter la logique métier de détection/installation de Java et de récupération des fichiers nécessaires à Minecraft.",
+                "Implémenter des tests pour vérifier l’intégrité et la bonne version des ressources téléchargées.",
+                "Rédiger une documentation technique pour permettre l’intégration de la librairie dans d’autres launchers.",
+                "Déployer la solution (registry privé ou dépôt public) pour la rendre disponible aux autres projets.",
+                "Proposer des améliorations sur la performance des téléchargements et la simplicité d’intégration."
             ],
             "projectLink": "https://github.com/luuxis/minecraft-java-core"
         }
