@@ -1,5 +1,5 @@
 {
-    "cv": "https://luuxis.fr/cv.pdf",
+    "cv": "https://media.licdn.com/dms/document/media/v2/D561FAQH9vqyM8JRc8w/feedshare-document-pdf-analyzed/feedshare-document-pdf-analyzed/0/1717167241473?e=1763596800&v=beta&t=loEeNK4keXtv7vdkYQiS8VcdYI-tZ5m-QFOqzIMYvfI",
     "projects": [
         {
             "title": "Selvania Launcher",
@@ -11,12 +11,14 @@
                 "Minecraft"
             ],
             "rncp": [
-                "test"
+                "Rédiger un cahier des charges à partir des besoins d’administration (gestion de clients, offres, services, facturation éventuelle) pour cadrer le panel",
+                "Rédiger des spécifications techniques à partir de ce CDC (modèles, rôles admin, droits)."
             ],
             "projectLink": "https://github.com/luuxis/Selvania-Launcher"
         },
         {
             "title": "LuuxCraft",
+            "image": "https://raw.githubusercontent.com/luuxis/portfolio-assets/refs/heads/master/luuxcraft.png",
             "description": "Plateforme web pour générer des launchers personnalisés pour serveurs Minecraft.",
             "tags": [
                 "React",
@@ -24,12 +26,14 @@
                 "Web Panel"
             ],
             "rncp": [
-                "test"
+                "Rédiger un cahier des charges à partir des besoins d’administration (gestion de clients, offres, services, facturation éventuelle) pour cadrer le panel",
+                "Rédiger des spécifications techniques à partir de ce CDC (modèles, rôles admin, droits)."
             ],
             "projectLink": "https://luuxcraft.fr"
         },
         {
             "title": "minecraft-java-core",
+            "image": "https://raw.githubusercontent.com/luuxis/portfolio-assets/refs/heads/master/minecraft-java-core.png",
             "description": "Librairie Node.js pour gérer Java et les versions Minecraft dans un launcher.",
             "tags": [
                 "Node.js",
@@ -37,7 +41,8 @@
                 "Java"
             ],
             "rncp": [
-                "test"
+                "Rédiger un cahier des charges à partir des besoins d’administration (gestion de clients, offres, services, facturation éventuelle) pour cadrer le panel",
+                "Rédiger des spécifications techniques à partir de ce CDC (modèles, rôles admin, droits)."
             ],
             "projectLink": "https://github.com/luuxis/minecraft-java-core"
         }
